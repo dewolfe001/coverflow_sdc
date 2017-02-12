@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-The plugin to orchestrate the display of items in a coverflow format. Uses the Flipster Coverflow JQuery library (https://github.com/drien/jquery-flipster).
+The plugin to orchestrate the display of items in a coverflow format. Uses the Flipster Coverflow JQuery library (https://github.com/drien/jquery-flipster). More info: http://products.shawndewolfe.com/product/coverflow-sdc/
 
 == Description ==
 
